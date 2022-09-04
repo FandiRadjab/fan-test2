@@ -9,5 +9,8 @@
 <body>
     <h3>Hello Wordl</h3>
     <p>nama apa aja deh</p>
+    <ul>
+        <li>neneklu</li>
+    </ul>
 </body>
 </html>
